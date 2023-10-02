@@ -73,3 +73,4 @@ accept current change | accept incoming change | accept both chang | compare cha
 Выглядит это вот так:
 
 ![Тут бы показать наглядно]()
+
